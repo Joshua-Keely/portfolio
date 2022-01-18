@@ -11303,6 +11303,7 @@ html {
 .content-section-heading h3, .content-section-heading .h3 {
   font-size: 1rem;
   text-transform: uppercase;
+  padding-top: 2rem;
 }
 
 .text-faded {

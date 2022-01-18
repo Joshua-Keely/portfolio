@@ -11571,4 +11571,18 @@ footer.footer .social-link:hover {
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
+.masthead-custom-pages{
+  background-color:#1D809F;
+  color: white;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
 

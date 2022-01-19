@@ -1,14 +1,11 @@
 @charset "UTF-8";
 /*!
-* Start Bootstrap - Stylish Portfolio v6.0.4 (https://startbootstrap.com/theme/stylish-portfolio)
 * Copyright 2013-2021 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/blob/master/LICENSE)
 */
 /*!
  * Bootstrap v5.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
  * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
   --bs-blue: #1D809F;
@@ -11597,4 +11594,8 @@ footer.footer .social-link:hover {
 #video-text{
   text-align: center;
   padding-top: 2rem;
+  padding-left: 10rem;
+  padding-right: 10rem;
 }
+
+

@@ -4,7 +4,7 @@
 cd ..
 rm -rf keelyj.zip 
 # 2. Zip master directory
-zip -r -x '.git/*' keelyj .
+zip -r keelyj.zip  .
 # 3. Transfer .zip to Always Data WebDAV
 curl -T keelyj.zip -u keelyj webdav-keelyj.alwaysdata.net/
 #END OF SCRIPT !

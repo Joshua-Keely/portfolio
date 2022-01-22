@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This script zips and sends the file to AlwaysData's WebDAV server
+
 # 1. Go to directory and remove previous .zip files
 cd ..
 rm -rf keelyj.zip 

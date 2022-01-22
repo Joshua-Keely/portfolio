@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script automates the file handling on the WebDAV note: this script is to be used in a ssh session placed in your home directory.
+# This script automates the file handling on the WebDAV note: this script is to be used in a ssh session placed in your home directory.
 
 # 1. Move .zip to www
 mv keelyj.zip www

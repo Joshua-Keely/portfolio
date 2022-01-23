@@ -159,3 +159,9 @@ font-size: 20pt;
   align-items: center;
   padding-top: 3rem; 
 }
+.p-projets {
+  padding-top: 15pt;
+  padding-left: 15pt;
+  padding-right: 10pt;
+  text-align: center;
+}

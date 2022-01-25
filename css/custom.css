@@ -165,14 +165,7 @@ padding-left: 15pt;
 padding-right: 10pt;
 text-align: center;
 }
-/*STYLES GENERAUX*/
-*{
-font-family: Avenir, sans-serif;
-padding: 0px;
-margin: 0px;
-text-align: justify;
-box-sizing: border-box;
-}
+
 body{
 background: #ededed;
 }
@@ -331,6 +324,10 @@ display: block;
 height: 100%;
 border-top-left-radius: 5px;
 border-bottom-left-radius: 5px;
+}
+.c60{
+  width: 60%;
+  background-color: #8B8;
 }
 .c85{
 width: 85%;

@@ -1,7 +1,7 @@
 # Portfolio de Joshua Keely !
 
 Bonjour, voici le code source de mon portfolio. Il est constitué de code HTML/CSS et JS.
-Il y a également un script bash pour pousser le code sur https://keelyj.alwaysdata.net
+Il y a également un script bash pour pousser le code sur https://keelyj.alwaysdata.net.
 
 
 # Important

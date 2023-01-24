@@ -11503,7 +11503,7 @@ footer.footer .social-link:hover {
 .portfolio-item .caption {
   display: flex;
   height: 100%;
-  width: 100%;
+  width: 100;
   background-color: rgba(33, 37, 41, 0.2);
   position: absolute;
   top: 0;
@@ -11512,7 +11512,7 @@ footer.footer .social-link:hover {
 }
 .portfolio-item .caption .caption-content {
   color: #fff;
-  margin: auto 2rem 2rem;
+  margin: auto 2rem 1rem;
 }
 .portfolio-item .caption .caption-content h2, .portfolio-item .caption .caption-content .h2 {
   font-size: 0.8rem;
@@ -11522,10 +11522,9 @@ footer.footer .social-link:hover {
   font-weight: 300;
   font-size: 1.2rem;
 }
-@media (min-width: 992px) {
+@media (min-width: 500px) {
   .portfolio-item {
-    max-width: none;
-    margin: 0;
+    max-width: 80%;
   }
   .portfolio-item .caption {
     transition: background-color 0.7s, -webkit-clip-path 0.25s ease-out;

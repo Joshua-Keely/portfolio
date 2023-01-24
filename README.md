@@ -3,6 +3,8 @@
 Bonjour, voici le code source de mon portfolio. Il est constitué de code HTML/CSS et JS.
 Il y a également un script bash pour pousser le code sur https://keelyj.alwaysdata.net.
 
+**Acceder à mon portfolio en [cliquant ici](https://joshuakeely.live).**
+
 
 # Important
 
